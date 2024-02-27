@@ -31,7 +31,8 @@ My role in Lambdo mainly involved communication with micro VMs. I was tasked wit
 ## Nexth
 
 - Repository: [Nexth](https://github.com/wslyvh/nexth)
-
+- My PR: [PR#26](https://github.com/wslyvh/nexth/pull/26)
+  
 - State of the project: production
 - Community: active
 - Stack: Next.js, Typescript, Web3
